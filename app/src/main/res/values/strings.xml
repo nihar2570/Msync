@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Msync</string>
+
+    <string name="title_people">People</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="people_content">People</string>
+    <string name="tasks_content">tasks</string>
+    <string name="messages_content">messages</string>
+    <string name="notifications_content">notifications</string>
+    <string name="settings_content">settings</string>
+
+</resources>
